@@ -1,0 +1,156 @@
+====== Aesthetics of Automation ======
+
+ITPG-GT.2503\\
+09/03/2013 - 12/13/2013\\
+Thu 9.30 AM - 12.00 PM\\
+E Roon Kang\\
+[[eroon.kang@nyu.edu|eroon.kang@nyu.edu]]\\
+
+
+From Movable Type to the Internet, our desire to automate the work has been a major driving force behind many technological advancement. Thanks to these technologies, we are living the world that is extremely efficient and scalable, but as a result, we became alienated from the process of making. Often, we find the process humanly impossible to comprehend, due to our lack of sense for such scale or complexity. 
+
+
+In this fast-paced studio/theory class, we will try to dissect the world of automation and understand its implications. The work to be produced during the course will be a direct outcome of such effort, with its topic include: repetition, abstraction, scale, data, privacy, security, and power structures, etc. 
+
+Students are encouraged to create quick and small projects (or, iterations) each week, based on their choice of subject and the topic given each week. Even though the course is primarily targeted towards design thinkers, students are encouraged to break boundaries and explore. Possible projects including, but not limited to: printed matter, performance, sculpture, interactive installations, and generative art. The only requirement is that the documentation of the projects to be done in a specific format, so that everyone’s projects can be printed and assembled into a single book at the end of semester. (TBD)
+
+
+Basic knowledge in creative computing is assumed, and we will be using various prototyping techniques including Processing, HTML/CSS and Javascript, and/or Adobe Creative Suite. Weekly lecture will cover relevant readings and works by other artists, followed by casual presentation and discussion. Students will be given opportunity to develop and finalize one of their projects for the final.
+
+{{http://www.stedelijk.nl/assets/1997.4.0531_445.jpg}}
+===== Office Hours =====
+Thursdays, after class hours\\
+12:00PM – 1:00PM\\
+ITP Adjunct Office, or by appointment
+
+===== Students =====
+Create your project page by clicking your name below. Then on the following page, click on "Create" button on the top right corner.\\
+**[[http://eroonkang.com/aa/doku.php?id=wiki:syntax|Syntax]]** for dokuwiki can be found here for your formatting needs. 
+
+  * [[Aaron Cohen]]
+  * [[Alana Abbitt-Mcgregor]]
+  * [[Eojin Chae]]
+  * [[Hannah Mishin]]
+  * [[Jing Zhao]]
+  * [[Michelle Cortese]]
+  * [[Omer Shapira]]
+  * [[Mack Howell]]
+  * [[Yang Wang]]
+  * [[Yucef Merhi]]
+  * [[Jorge Brake]]
+
+
+
+===== Resources =====
+This is a class-wide list.
+==== Reading ====
+  * [[http://elupton.com/2010/10/the-designer-as-producer/|The Designer as Producer]], Ellen Lupton, 1998
+==== Further Reading ====
+  * [[http://2x4.org/ideas/2/Fuck+Content/|Fuck Content]], Michael Rock, 2009
+  * [[http://2x4.org/ideas/22/Designer+As+Author+/|Designer As Author]], Michael Rock, 1996
+  * [[http://www.faculty.umb.edu/gary_zabel/Courses/Art%20and%20Philosophy%20in%20SL%20and%20Other%20Virtual%20Worlds/Texts/Walter%20Benjamin_%20The%20Author%20as%20Producer.pdf|The Author as Producer]], Walter Benjamin, 1970
+  * [[http://artsites.ucsc.edu/faculty/Gustafson/FILM%20162.W10/readings/foucault.author.pdf|What is an Author]], Michel Foucault, 1969
+  * [[http://artsites.ucsc.edu/faculty/Gustafson/FILM%20162.W10/readings/barthes.death.pdf|Death of the Author]], Roland Barthes, 1968
+
+==== Watching ====
+  * [[http://www.ted.com/talks/robert_gordon_the_death_of_innovation_the_end_of_growth.html|The Death of Innovation, The End of Growth]], Robert Gordon, 2013
+  * [[http://www.ted.com/talks/erik_brynjolfsson_the_key_to_growth_race_em_with_em_the_machines.html|The Key to Growth? Race with the Machines]], Erik Brynjolfsson, 2013
+
+==== Documentation ====
+One of the goal in the class is to throughly document the weekly process and eventually turn it into a book format.
+  * **[[documentation|Documentation Format]]**
+
+===== W1, Sep 5: Introduction =====
+  * Introduction + Introduction
+  * Course Brief
+
+==== Due Next Week ====
+  * Pick your subject of a [[http://en.wikipedia.org/wiki/System|system]].
+  * Prepare a presentation of the system. Why is it interesting/relevant to you/your practice? The presentation can take any format, from PPT to singing.
+
+===== W2, Sep 12: Repetition =====
+  * Presentation of your systems, Q&A
+  * **[[Repetition]]**
+  * [[documentation|Documentation Format]]
+
+==== Due Next Week ====
+  * Now that we have defined your area of interest (your system), let's think about what you can/want to do about it. Let's call this a //project 1//.
+  * A week is a very short time, so you don't have to finish anything. Rather, bring it to the point where you can show a proof of concept – a very first prototype if you will. 
+  * Present your //project 1// next week.
+  * If you feel lost, [[Repetition|this week's theme]] is your friend.
+
+===== W3, Sep 19: Abstraction =====
+  * **[[Abstraction]]**
+===== W4, Sep 26: Scale =====
+  * **[[Scale]]**
+  * Guest Lecture: **[[http://woebken.net/|Chris Woebken]]**
+Chris uses futuring practices to create props, narratives and visualizations investigating the impacts as well as the aesthetic and social potentials of technologies. He runs workshops and collaborates with scientists, organizations, artists and engineers to invent and build prototypes of future services and products. Chris is currently doing a residency at Eyebeam. He is also part of the DAMM (Dark Matter Manufacture Factory) Collective and the New Lab at the Navy Yard, Brooklyn.
+
+===== W5, Oct 3: Speed  =====
+  * **[[Speed]]**
+===== W6, Oct 10 =====
+Class Cancelled
+
+===== W7, Oct 17: Resolution =====
+  * **[[Resolution]]**
+  * [[http://en.wikipedia.org/wiki/Planck_length|Planck Length (Omer)]]
+===== W8, Oct 24: Guest Lecturer =====
+  * Guest Lecturer: **Jean-Baptiste Michel**
+Jean-Baptiste Michel holds joint academic appointments at Harvard (FQEB Fellow) and Google (Visiting Faculty). His research focusses on using large volumes of data as tools that help better understand the world around us -- from the way diseases progress in patients over years, to the way cultures change in human societies over centuries. With his colleague Erez Lieberman Aiden, Jean-Baptiste is a Founding Director of Harvard's Cultural Observatory, where their research team pioneers the use of quantitative methods for the study of human culture, language and history. His research was featured on the covers of Science and Nature, on the front pages of the New York Times and the Boston Globe, in The Economist, Wired and many other venues. The online tool he helped create -- ngrams.googlelabs.com -- was used millions of times to browse cultural trends. Jean-Baptiste is an Engineer from Ecole Polytechnique (Paris), and holds an MS in Applied Mathematics and a PhD in Systems Biology from Harvard.
+
+
+==== Due Next Week ====
+Do initial layout of your documentation pages. Think about how to introduce your system/topic. Describe your weekly progress and present your sketches, thoughts, and outcomes. We had 5 weeks of time to iterate so far, so the minimum requirement of pages for next week is 10 (= 5 spreads). See [[documentation|Documentation Format]], your page size is 5in x 7.75in.
+  * Print these pages and bring to the class, properly trimmed.
+  * Create PDF of the pages and put downloadable link on your wiki page.
+===== W9, Oct 31: Data/Privacy =====
+  * **[[Data/Privacy]]**
+
+=== Next Week ===
+Does your system inherently generate data in any way? \\
+Can you start generating/recording a series of metadata about your system?\\
+Is it possible come up with a new system that uses such data and improve some aspects of the original system? 
+===== W10, Power/Failure, November 7 =====
+  * **[[Power/Failure]]**
+
+=== Next Week ===
+  * Bring your final project ideas
+  * Present your ideas in less than 5 minutes
+  * Include your project proposal in your documentation and bring it to the class – printed, trimmed, staple-bound.
+
+===== W11, Nov 14: Guest Lecturer =====
+  * **Final Project Proposal**
+  * Guest Lecturer: **[[http://taeyoonchoi.com/|Taeyoon Choi]]**
+Taeyoon is an artist who works with hacking, drawing and storytelling in the public space. Taeyoon often collaborates with engineers, performing artists and activists to realize socially engaged projects. Recently he has been curating exhibitions and education programs for public art festivals. He is a co-founder of [[http://sfpc.io/|School for Poetic Computation]].
+
+===== W12, Nov 21 =====
+  * Final Project Development, Individual Meetings
+  * Also plan for make-up class (office hours), vote for either SAT(30)/SUN(1)
+
+**Bold Text**
+==== Signup for individual meetings ====
+  * 9:30 – 
+  * 9:45 – Yucef
+  * 10:00 – 
+  * 10:15 – Mack
+  * 10:30 – Michelle Cortese
+  * 10:45 – Jing Zhao
+  * 11:00 – Yang Wang
+  * 11:15 –Hannah Mishin
+  * 11:30 – Eojin Chae
+  * 11:45 – Alana
+  * 12:00 – Aaron
+
+===== Make-up Office Hours, Sunday (Dec 1) 2-4pm =====
+in classroom (if possible) or in adjunct office
+
+
+===== W13, Dec 5 =====
+  * Final Project Development, Working Demo
+
+Bring your projects to the class in working condition, and let's figure out how to setup, improve, present, and document.
+
+
+===== W14, Dec 12 =====
+  * **Final Crit**
+  * Bring finished documentations

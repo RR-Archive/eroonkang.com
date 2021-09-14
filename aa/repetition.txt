@@ -1,0 +1,107 @@
+====== Repetition ======
+This Page is editable by all of you. If you have thoughts to share/contribute, edit it away!\\
+The Edit button is on the top right corner.\\
+  * [[wiki:syntax|Syntax]]
+===== Animal in Locomotion, Eadweard Muybridge =====
+{{http://www.muybridge.org/Animal-Locamotion-finished-1/Animal-Locamotion-Vol-1/i-csZJdK7/0/XL/22%20-%20Vol%201%20-%20Plate%2074-XL.jpg?420}}\\
+Animal Locomotion, 1872-1885
+
+{{http://upload.wikimedia.org/wikipedia/commons/d/dd/Muybridge_race_horse_animated.gif}}\\
+Horse in Motion, 1878
+
+  * http://en.wikipedia.org/wiki/Muybridge
+Eadweard James Muybridge (/ˌɛdwərd ˈmaɪbrɪdʒ/; 9 April 1830 – 8 May 1904) was an English photographer important for his pioneering work in photographic studies of motion and in motion-picture projection. 
+===== Bullet Time =====
+{{http://smhttp.14409.nexcesscdn.net/806D5E/wordpress-L/images/camera-rigs-2.jpg?420}}
+
+{{youtube>bKEcElcTUMk}}
+
+===== Chemical Brothers: Star Guitar, Michel Gondry =====
+{{youtube>0S43IwBF0uM}}
+
+===== 100 Days Workshop, Michael Bierut =====
+  * [[http://observatory.designobserver.com/feature/five-years-of-100-days/24678/|Design Observer Article]]
+
+Beginning Thursday, October 21, 2010, do a design operation that you are capable of repeating every day. Do it every day between today and up to and including Friday, January 28, 2011, the last day of the project, by which time you will have done the operation one hundred times. That afternoon, each student will have up to 15 minutes to present his or her one-hundred part project to the class.
+
+The only restrictions on the operation you choose is that it must be repeated in some form every day, and that every iteration must be documented for eventual presentation. The medium is open, as is the final form of the presentation on the 100th day."
+
+{{vimeo>3237836}}
+  * [[http://welikehim.com/|Ely Kim]]
+
+
+{{http://observatory.designobserver.com/media/images/100days.jpg?420}}
+  * [[http://observatory.designobserver.com/entry.html?entry=11257|100 Colors, 100 Writings, 100 Days]]
+
+===== Crossroads (what to do), Garvin Nolte =====
+  * {{vimeo>12748440}}
+
+===== Robotic Chair, Max Dean & Raffaello D'Andrea, 2006 =====
+
+{{youtube>Pxq2chA5AT8}}
+
+  * [[http://raffaello.name/dynamic-works/robotic-chair|Project Website]]
+The Robotic Chair may look like a generic wooden chair. Unlike most chairs, however, this one falls apart and puts itself back together. The Robotic Chair is guided by an overhead vision system and controlled over a wireless network by an external computer. Various algorithms govern the chair’s behavior, while the software is structured in such a way that the system can learn from its environment.
+
+The Robotic Chair keeps its controls and technology hidden under a simple wooden veneer, making it high-tech in the most unassuming way. As the chair falls apart, gathers itself together and picks itself back up again and again, it reminds us not only of our fallibility, but also of our innate capacity for re-creating ourselves.
+
+Since its completion in 2006, the Robotic Chair has fascinated young and old alike. It has been exhibited at IdeaCity in Canada, ARS Electronica in Austria, ARCO in Spain and the London Art fair, along with many other international venues. It is now a part of the permanent collection at the National Gallery of Canada.
+  * http://raffaello.name/dynamic-works/robotic-chair
+
+===== Balance from Within, Jacob Tonski, 2012 =====
+{{vimeo>72826106}}
+"Balance from Within", initiated in 2010 by STUDIO artist-in-residence Jacob Tonski, is a 170-year-old sofa which uses an internal robotic mechanism to balance precariously on one leg, continuously teetering, responding internally to external forces. The piece was recently completed and exhibited at the 2013 FILE festival in Brazil. 
+  * studioforcreativeinquiry.org/projects/balance-from-within
+
+===== Machine with Concrete/Oil, Arthur Ganson =====
+{{youtube>5q-BH-tvxEg}}\\
+\\
+{{youtube>__GhJl_UQg0}}
+
+===== Teaching a Plant the Alphabet, John Baldessari, 1972 =====
+{{http://s3.amazonaws.com/eob_nonarchived_images-production/eob_uploaded_images/1342729147_2-Teaching-a-Plant-the-Alphabet-(Baldessari-1972)_600.jpg?400}}
+  * [[http://www.vdb.org/titles/teaching-plant-alphabet|Video]]
+“[A] rather perverse exercise in futility,” this tape documents Baldessari’s response to Joseph Beuys’s influential performance, How to Explain Pictures to a Dead Hare. Baldessari’s approach here is characteristically subtle and ironic, involving ordinary objects and a seemingly banal task. The philosophical underpinnings of Baldessari’s exercise are structuralist theories about the opaque and artificial nature of language as a system of signs. Using a common houseplant to represent nature and instructional flashcards to represent the alphabet, Baldessari ironically illustrates this theorem. That language is the structuring element of the tape—the length of the tape was determined by the number of letters in the alphabet—enforces the connection between language and art, a recurrent theme in Baldessari’s work.
+  * http://www.vdb.org/titles/teaching-plant-alphabet
+
+
+===== Werk, Jeroen Kooijmans, 1994 =====
+{{youtube>_0_ETLzeVDg}}
+  * [[http://catalogue.nimk.nl/site/art_play.php?id=4522|Video]]
+Certain mechanisms always go back to their starting point. Take our planet, for instance, or the hands of a clock. They keep turning around in the same circles, moving on without a beginning or an end. This video work shows the same kind of procedure. Three identically dressed men are in the situation that they are all busy with the same job. With spades in their hands, all three are shovelling a small heap of sand from A to B. A practical activity, one would think, if it were not for the fact that their efforts are totally useless. They keep on shovelling the sand around, from A to B, B to C, C to A, and so on. The sand is being moved, but it doesn't change anything. Apparently the men are unconcerned by the interminable cycle of cause and result in which they have become entangled. They work on diligently, at the same pace. Kooijmans, who registered this vicious circle from above, makes the scene even stranger by making a similar circular movement with his camera, but in the opposite direction. This leads to a fascinating spectacle, very simple and yet bizarre. As with his other video works, the artists shows his fascination with ordinary things and how, with a small intervention, an ordinary thing can easily become less insignificant. Kooijmans has very effectively assessed the possibilities of the so-called new media at their true value, and knows how to use them. This he does without much technical ado.
+
+
+===== Seattle Public Library's Book Handling System =====
+{{http://www.spl.org/images/branch/NewCentral/Book_sorting3.jpg?420}}
+  * [[http://www.spl.org/media/videos/SPL_TechLogic/SPL_TechLogic.htm|Video]]
+
+State-of-the-art technology has changed the way books and other materials are checked in, sorted and readied for re-shelving at the Central Library. Most of the computer-controlled Tech Logic system isn't visible to Library visitors, but patrons benefit in a number of ways.
+
+===== reCaptcha =====
+{{http://www.google.com/recaptcha/static/images/sample-ocr.png}}
+
+[[http://www.google.com/recaptcha/learnmore|Project Website]]
+
+A CAPTCHA is a program that can tell whether its user is a human or a computer. You've probably seen them — colorful images with distorted text at the bottom of Web registration forms. CAPTCHAs are used by many websites to prevent abuse from "bots," or automated programs usually written to generate spam. No computer program can read distorted text as well as humans can, so bots cannot navigate sites protected by CAPTCHAs.
+
+About 200 million CAPTCHAs are solved by humans around the world every day. In each case, roughly ten seconds of human time are being spent. Individually, that's not a lot of time, but in aggregate these little puzzles consume more than 150,000 hours of work each day. What if we could make positive use of this human effort? reCAPTCHA does exactly that by channeling the effort spent solving CAPTCHAs online into "reading" books.
+
+To archive human knowledge and to make information more accessible to the world, multiple projects are currently digitizing physical books that were written before the computer age. The book pages are being photographically scanned, and then transformed into text using "Optical Character Recognition" (OCR). The transformation into text is useful because scanning a book produces images, which are difficult to store on small devices, expensive to download, and cannot be searched. The problem is that OCR is not perfect.
+
+===== PARRY vs ELIZA =====
+  * [[http://en.wikipedia.org/wiki/PARRY#endnote_comphis70s|PARRY]]
+  * [[http://en.wikipedia.org/wiki/ELIZA|ELIZA]]
+
+PARRY was written in 1972 by psychiatrist Kenneth Colby, then at Stanford University. While ELIZA was a tongue-in-cheek simulation of a Rogerian therapist, PARRY attempted to simulate a paranoid schizophrenic. The program implemented a crude model of the behavior of a paranoid schizophrenic based on concepts, conceptualizations, and beliefs (judgements about conceptualizations: accept, reject, neutral). It also embodied a conversational strategy, and as such was a much more serious and advanced program than ELIZA. It was described as "ELIZA with attitude".
+
+PARRY was tested in the early 1970s using a variation of the Turing Test. A group of experienced psychiatrists analysed a combination of real patients and computers running PARRY through teleprinters. Another group of 33 psychiatrists were shown transcripts of the conversations. The two groups were then asked to identify which of the "patients" were human and which were computer programs.[3] The psychiatrists were able to make the correct identification only 48 percent of the time — a figure consistent with random guessing.
+
+PARRY and ELIZA (also known as "the Doctor") "met" several times.[1]RFC 439[5] The most famous of these exchanges occurred at the ICCC 1972, where PARRY and ELIZA were hooked up over ARPANET and "talked" to each other.
+
+  * [[http://www.faqs.org/rfcs/rfc439.html|RFC439 PARRY Encounters the DOCTOR: Full Script]]
+
+  * [[http://www.zdnet.com/blog/apple/siri-eliza-update-she-knows-her/11413|Siri Knows ELIZA]]
+  * Siri telling me a bedtime story about Eliza [[http://www.youtube.com/watch?v=XqWahIbwKLs]]
+
+==== Recursion ====
+{{http://31.media.tumblr.com/68359058352250569a0889ca3ae1409a/tumblr_mss192tLOB1rjsvmco1_500.gif}}

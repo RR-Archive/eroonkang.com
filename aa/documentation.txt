@@ -1,0 +1,42 @@
+====== Documentation Format ======
+==== FINAL UPDATE ====
+It turns out, custom binding w/ signature in NYC is too expensive. 
+So, let's just print **single pages in letter size paper. (loose sheets, double sided).**
+
+  - Your document size is still 5 in x 7.75 in (same template, [[https://dl.dropboxusercontent.com/u/3060214/AA-BookTemplate.indd|.indd for CS6]], [[https://dl.dropboxusercontent.com/u/3060214/AA-BookTemplate.idml|.idml for CS4 or Later]])
+  - We're down to 10 students, so let's make **12 copies**. Everyone + myself + extra. (Be prepared for the materials of 20+ copies, to end up with 11 successful ones)
+  - If you have full bleed images, let's make **generous bleeding of 0.5 inches**, in order to compensate for misalignment of pages during cutting and binding. Here's how to do it:
+    * Open the template file in InDesign
+    * File > Document Setup > More Options...
+    * Add 0.5" bleeding in all directions
+    * {{::screenshot_2013-12-09_17.38.03.png?100}}
+    * Check out [[http://help.adobe.com/en_US/indesign/cs/using/WSa285fff53dea4f8617383751001ea8cb3f-7088a.html|bleeding options]] if you want to read about bleeding.
+  - Make sure you print in **pages (vs. spreads), portrait, centered, with crop marks and proper bleed setting**.
+    * General > Pages > Sequence > All Pages:Pages (instead of Spreads)
+    * {{::screenshot_2013-12-09_17.42.12.png?100|}}
+    * Setup > Orientation > Portrait
+    * Setup > Page Position: Centered
+    * {{::screenshot_2013-12-09_17.43.00.png?100|}}
+    * Marks and Bleed > Marks > Crop Marks
+    * Marks and Bleed > Bleed > Use Document Bleed Settings
+    * {{::screenshot_2013-12-09_17.43.27.png?100|}}
+  - Follow your printer driver's instructions for **double-side print**.
+  - I'll bring knifes and a cutting mat (and clips) so that we can all align the pages ad cut during the class.
+
+
+=== Previously ===
+  - Collect all the process materials that was produced for the class. This includes both physical and digital.
+  - We are going to make total of 10 iterations of your project in the semester. (9 + final)
+  - Minimum amount of documentation required for the entire semester is 32 pages. (two 16-page signatures)
+  - Minimum amount of documentation required per each iteration is a [[http://en.wikipedia.org/wiki/Book_design#Page_spread|spread]] (two pages = a spread)
+  - You can make more signatures as you wish. (Always multiple the page numbers by 16)
+  - There is no need to layout or typeset the pages.
+  - Everyone's spreads will be in same exact dimension: 5in x 7.75in
+    * InDesign template can be downloaded from here:
+    * [[https://dl.dropboxusercontent.com/u/3060214/AA-BookTemplate.indd|.indd for CS6]]
+    * [[https://dl.dropboxusercontent.com/u/3060214/AA-BookTemplate.idml|.idml for CS4 or Later]]
+  - Everyone's responsible for printing 16+ copies of their signatures at the end of the class. (all of you + me + a few extra)
+  - 16+ copies will be bound professionally.
+  - We all get a copy of the book, consists of everyone's work.
+
+http://fullasabean.wordpress.com/tag/book-binding/

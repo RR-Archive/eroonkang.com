@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <title>omer_shapira</title>
+<meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="omer_shapira"/>
+<link rel="search" type="application/opensearchdescription+xml" href="lib/exe/opensearch.php" title="Aesthetics of Automation"/>
+<link rel="start" href="doku.php.html"/>
+<link rel="contents" href="doku.php%EF%B9%96id=omer_shapira&amp;do=index.html" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="feed.php.rss"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="feed.php%EF%B9%96mode=list&amp;ns=.rss"/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="doku.php%EF%B9%96do=export_xhtml&amp;id=omer_shapira.html"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="omer_shapira.txt"/>
+<link rel="canonical" href="doku.php%EF%B9%96id=omer_shapira.html"/>
+<link rel="stylesheet" type="text/css" href="lib/exe/css.php%EF%B9%96t=vector&amp;tseed=fb0eb186041c555209ce1fa4d6aae5e3.css"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"omer_shapira","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="lib/exe/js.php%EF%B9%96t=vector&amp;tseed=fb0eb186041c555209ce1fa4d6aae5e3.js"></script>
+</head>
+<body>
+<div class="dokuwiki export">
+
+<h1 class="sectionedit1" id="oh_hai">Oh Hai</h1>
+<div class="level1">
+
+<p>
+<img src="lib/exe/dreamtiger.jpg" class="mediacenter" alt="" width="1024" />
+</p>
+
+</div>
+<!-- EDIT1 SECTION "Oh Hai" [1-58] -->
+<h2 class="sectionedit2" id="week_3_homework">Week 3 Homework</h2>
+<div class="level2">
+
+</div>
+
+<h5 id="pixel_sort_unsort">Pixel Sort &amp; Unsort</h5>
+<div class="level5">
+
+<p>
+<img src="lib/exe/hw03_70efc2be5fee11e2854522000a1f9e45_7_thres128.png" class="media" alt="" width="512" />
+<img src="lib/exe/hw03_70efc2be5fee11e2854522000a1f9e45_7_thres52.png" class="medialeft" alt="" width="512" />
+</p>
+
+<p>
+<img src="lib/exe/hw03_pruittigoe_thres150.png" class="mediacenter" alt="" width="1024" />
+<img src="lib/exe/hw03_pruittigoe_thres128.png" class="mediacenter" alt="" width="1024" />
+</p>
+
+</div>
+
+<h5 id="fourier_image_coding">Fourier Image Coding</h5>
+<div class="level5">
+
+<p>
+<img src="lib/exe/2ptymfn.jpg" class="media" alt="" width="512" />
+<img src="lib/exe/m0ped.jpg" class="media" alt="" width="512" />
+</p>
+
+</div>
+
+<h4 id="python_code_for_fourier_coding">Python Code for Fourier Coding</h4>
+<div class="level4">
+<pre class="code">from matplotlib import pyplot
+import numpy
+import os.path
+from __future__ import division
+output_path = &quot;/Users/Omer/Dropbox/NYU/Aesthetics of Automation/HW 03/&quot;
+
+# Save Function
+save = lambda name, x : misc.imsave(os.path.join(output_path, name), x)
+
+img = misc.imread(&quot;/Users/Omer/Desktop/Unfortunately.png&quot;)
+pyplot.imshow(img)
+fg = ndimage.fourier.fourier_gaussian(img,0.5)
+pyplot.imshow(fg)
+save(&quot;fg.png&quot;, fg)
+
+for n in xrange(10):
+    f = 0.05 + n*0.05
+    fg = ndimage.fourier.fourier_gaussian(img,f)
+    save(&quot;fg&quot;+str(f)+&quot;.png&quot;, fg)
+gf = ndimage.fourier.fourier_gaussian(fg,0.5)
+pyplot.imshow(gf)</pre>
+
+</div>
+
+<h5 id="human_entropy_collection">Human Entropy Collection</h5>
+<div class="level5">
+
+<p>
+Not developed yet
+</p>
+
+</div>
+
+<h4 id="feedback">Feedback</h4>
+<div class="level4">
+
+<p>
+<a href="http://www.spynumbers.com/WBNY.html" class="urlextern" title="http://www.spynumbers.com/WBNY.html"  rel="nofollow"> Rodent Revolution Numbers Staiton</a>
+<a href="http://stewd.io/w/histoface" class="urlextern" title="http://stewd.io/w/histoface"  rel="nofollow"> Histoface Typeface</a>
+</p>
+
+</div>
+<!-- EDIT2 SECTION "Week 3 Homework" [59-] --></div>
+</body>
+</html>

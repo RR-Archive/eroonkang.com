@@ -1,0 +1,96 @@
+====== Power/Failure ======
+
+===== Airplane Game =====
+
+{{http://i.imgur.com/upoP1o7.jpg?800}}
+
+
+{{http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pyramid8Ball.svg/1000px-Pyramid8Ball.svg.png?600}}
+
+
+http://en.wikipedia.org/wiki/Pyramid_scheme#The_.22Eight-Ball.22_model
+
+The eight passengers must each pay (or "gift") a sum (e.g. $5,000) to join the scheme. This sum (e.g. $40,000) goes to the captain who leaves, with everyone remaining moving up one tier. There are now two new captains so the group splits in two with each group requiring eight new passengers. A person who joins the scheme as a passenger will not see a return until they advance through the crew and co-pilot tiers and exit the scheme as a captain. Therefore, the participants in the bottom three tiers of the pyramid lose their money if the scheme collapses.
+
+If a person is using this model as a scam, the confidence trickster would make the lion's share of the money. They would do this by filling in the first three tiers (with one, two, and four people) with phony names, ensuring they get the first seven payouts, at eight times the buy-in sum, without paying a single penny themselves. So if the buy-in were $5,000, they would receive $40,000, paid for by the first eight investors. They would continue to buy in underneath the real investors, and promote and prolong the scheme for as long as possible to allow them to skim even more from it before it collapses.
+
+===== Helvetica vs. Arial =====
+
+{{http://coldstreams.com/wp-content/uploads/2012/03/chart-of-the-day-operating-system-share-march-2012.jpg}}
+
+{{http://www.marksimonson.com/assets/content/notebook/aaa_1.png?400}}\\
+
+http://www.marksimonson.com/notebook/view/the-scourge-of-arial\\
+"When Microsoft made TrueType the standard font format for Windows 3.1, they opted to go with Arial rather than Helvetica, probably because it was cheaper and they knew most people wouldn’t know (or even care about) the difference. Apple also standardized on TrueType at the same time, but went with Helvetica, not Arial, and paid Linotype’s license fee. Of course, Windows 3.1 was a big hit. Thus, Arial is now everywhere, a side effect of Windows’ success, born out of the desire to avoid paying license fees."
+
+http://www.marksimonson.com/notebook/view/monotypes-other-arials
+
+
+
+{{http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/3_Core_Fonts_for_the_web.png/500px-3_Core_Fonts_for_the_web.png?300}}
+===== Bruce Mau from Massive Change =====
+"Every plane crash is a rupture, a shock to the system, precisely because our experience of flight is so carefully designed away from the reality of the event. As we sip champagne, read the morning paper, and settle in before takeoff, we choose not to experience the torque, the thrust, the speed, the altitude, the temperature, the thousands of pounds of explosive jet fuels cradled beneath us, the infinite complexity of onboard systems, and the very real risks and dangers of takeoff and landing."
+
+{{https://dl.dropboxusercontent.com/u/3060214/BMMC.png}}
+{{http://www.airlinereporter.com/wp-content/uploads/2013/07/AsianaCrash-640x364.jpg}}
+
+
+===== Lev Manovich, The Death of Computer Art=====
+http://www.manovich.net/TEXT/death.html
+
+{{http://www.invisiblebooks.com/fountain.jpg?200}} {{http://poster.4teachers.org/imgFilePoster/480723.jpg?200}}
+
+(In the following, I will refer to art world -- galleries, major museums, 
+prestigious art journals -- as Duchamp-land, in analogy with Disneyland. I 
+will also refer to the world of computer arts, as exemplified by ISEA, Ars 
+Electronica, SIGGRAPH art shows, etc. as Turing-land)
+
+....
+
+What we should not expect from Turing-land is art which will be 
+accepted in Duchamp-land. Duchamp-land wants art, not research into new 
+aesthetic possibilities of new media. The convergence will not happen. 
+===== Flyfire, SCL =====
+{{youtube>CnEN9B18v6Q}}
+===== Roman Signer, 56 Kleine Helikopter (56 Small Helicopters), 2008 =====
+
+{{http://glasstire.com/wp-content/uploads/2013/05/X56Heli01001308-600x337.jpg}}
+
+http://www.wallpaper.com/video/art/56-kleine-helikopter-2008/32905141001
+
+===== Failure, MIT Press =====
+
+Amid the global uncertainties of our times, failure has become a central subject of investigation in recent art. Celebrating failed promises and myths of the avant-garde, or setting out to realize seemingly impossible tasks, artists have actively claimed the space of failure to propose a resistant view of the world. Here success is deemed overrated, doubt embraced, experimentation encouraged, and risk considered a viable strategy. The abstract possibilities opened up by failure are further reinforced by the problems of physically realizing artworks—wrestling with ideas, representation, and object-making. By amplifying both theoretical and practical failure, artists have sought new, unexpected ways of opening up endgame situations, ranging from the ideological shadow of the white cube to unfulfilled promises of political emancipation. Between the two subjective poles of success and failure lies a space of potentially productive operations where paradox rules and dogma is refused. This collection of writings, statements, mediations, fictions, polemics, and discussions identifies failure as a core concern in cultural production. Failure identifies moments of thought that have eschewed consensus, choosing to address questions rather than answers.
+
+{{https://mitpress.mit.edu/sites/default/files/imagecache/booklist_node/9780262514774.jpg}}
+
+=== If at first you don't succeed, celebrate ===
+http://www.tate.org.uk/context-comment/articles/if-first-you-dont-succeed-celebrate\\
+
+Uncertainty and instability characterise contemporary times. In spite of this, success and progress seem to endure as a condition to strive for, even though there is little faith in either. All individuals know failure better than we might care to admit – failed romance, failed careers, failed politics, failed society, failed humanity, failed failures. What happens, though, when artists use failure to propose a resistant view of the world, when failure is released from being a judgmental term, and success deemed overrated?
+
+{{http://images.tate.org.uk/sites/default/files/styles/grid-normal-8-cols/public/images/lefeuvre_02.jpg?400}}
+{{http://images.tate.org.uk/sites/default/files/styles/grid-normal-8-cols/public/images/roman%20signer%20engpass%20at%20aussendienst_1.jpg?400}}
+
+===== Felix Gonzalez-Torres, Perfect Lovers, 1991 =====
+
+{{http://www.moma.org/collection_images/resized/576/w500h420/CRI_210576.jpg?400}}
+
+http://www.moma.org/collection/object.php?object_id=81074
+
+===== Parkinson's Law, 1955 (How Officials Make Work For Each Other) =====
+
+http://www.economist.com/node/14116121
+
+{{:subordinates2.png?600}}
+
+**The Law of Multiplication of Work**
+
+Seven officials are now doing what one did before. [...] An incoming document may well come before each of them in turn. Official E decides that it falls within the province of F, who places a draft reply before C, who amends it drastically before consulting D, who asks G to deal with it. But G goes on leave at this point, handing the file over to H, who drafts a minute, which is signed by D and returned to C, who revises his draft accordingly and lays the new version before A.
+
+What does A do? He would have every excuse for signing the thing unread, for he has many other matters on his mind. Knowing now that he is to succeed W next year, he has to decide whether C or D should succeed to his own office. He had to agree to G going on leave, although not yet strictly entitled to it. He is worried whether H should not have gone instead, for reasons of health. He has looked pale recently—partly but not solely because of his domestic troubles. Then there is the business of F's special increment of salary for the period of the conference, and E's application for transfer to the Ministry of Pensions. A has heard that D is in love with a married typist and that G and F are no longer on speaking terms—no one seems to know why. So A might be tempted to sign C's draft and have done with it.
+
+But A is a conscientious man. Beset as he is with problems created by his colleagues for themselves and for him—created by the mere fact of these officials' existence—he is not the man to shirk his duty. He reads through the draft with care, deletes the fussy paragraphs added by C and H and restores the thing back to the form preferred in the first instance by the able (if quarrelsome) F. He corrects the English—none of these young men can write grammatically—and finally produces the same reply he would have written if officials C to H had never been born. Far more people have taken far longer to produce the same result. No one has been idle. All have done their best...
+
+
+{{http://www.stedelijk.nl/assets/1997.4.0531_445.jpg}}

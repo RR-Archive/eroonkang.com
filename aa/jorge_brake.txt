@@ -1,0 +1,9 @@
+[[http://jabrake.com/blog/2013/9/27/aesthetics-of-automation-week-1-systems | System]]
+
+[[http://jabrake.com/blog/2013/9/27/aesthetics-of-automation-week-2-repetition | Repetition]]
+
+[[http://jabrake.com/blog/2013/9/27/aesthetics-of-automation-week3-abstraction | Abstraction]]
+
+[[http://jabrake.com/blog/2013/10/2/aesthetics-of-automation-week-4-scale | Scale]]
+
+[[http://jabrake.com/blog/2013/10/11/aesthetics-of-automation-week-5-speed | Speed]]

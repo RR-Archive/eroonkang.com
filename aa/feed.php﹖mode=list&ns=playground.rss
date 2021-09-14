@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://eroonkang.com/aa/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://eroonkang.com/aa/feed.php">
+        <title>Aesthetics of Automation playground</title>
+        <description></description>
+        <link>http://eroonkang.com/aa/</link>
+        <image rdf:resource="http://eroonkang.com/aa/lib/tpl/vector/images/favicon.ico" />
+       <dc:date>2021-09-14T20:35:07+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?id=playground:playground&amp;rev=1378237555&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://eroonkang.com/aa/lib/tpl/vector/images/favicon.ico">
+        <title>Aesthetics of Automation</title>
+        <link>http://eroonkang.com/aa/</link>
+        <url>http://eroonkang.com/aa/lib/tpl/vector/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?id=playground:playground&amp;rev=1378237555&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-09-03T19:45:55+00:00</dc:date>
+        <title>playground:playground</title>
+        <link>http://eroonkang.com/aa/doku.php?id=playground:playground&amp;rev=1378237555&amp;do=diff</link>
+        <description>PlayGround</description>
+    </item>
+</rdf:RDF>

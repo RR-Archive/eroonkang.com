@@ -1,0 +1,71 @@
+====== Data/Privacy ======
+
+===== SENSEable City Lab =====
+
+=== New York Talk Exchange ===
+http://senseable.mit.edu/nyte/
+
+{{http://senseable.mit.edu/nyte/images/01%20nyte%20-%20globe%20encounters.jpg?400}}
+
+=== Real Time Rome ===
+http://senseable.mit.edu/realtimerome/
+
+{{::madonna-color_copy.png?400}}
+
+=== World's Eyes ===
+http://senseable.mit.edu/worldseyes/visuals.html
+
+=== BBVA ===
+http://senseable.mit.edu/bbva/
+===== Jean-Baptiste Michel and Erez Lieberman Aiden =====
+http://new.ted.com/talks/what_we_learned_from_5_million_books
+===== MVRDV, Pig City =====
+{{youtube>x1r5GutrXX4}}
+
+===== Seattle Public Library =====
+http://new.ted.com/talks/joshua_prince_ramus_on_seattle_s_library#
+
+
+===== MSN Messenger, Forget Me =====
+{{::msn75login.jpg}}
+
+===== Facebook friend Recommendations =====
+{{http://rack.3.mshcdn.com/media/ZgkyMDEyLzEyLzA0LzcxL2ZhY2Vib29rcmVjLmFVRC5wbmcKcAl0aHVtYgkxMjAweDk2MDA-/8f27ef25/1e4/facebookreconnect.png?400}}
+
+http://mashable.com/2009/10/25/facebook-reconnect/
+===== How to Keep Your data for over 100 years? =====
+
+A 350 year old copy of Shakespeare is about as readable as a new one. But a 35 year old floppy? Preserving data is essential to digital civilization, but how?
+
+Data is fragile. Threats include:
+
+  * Media/hardware obsolescence -- even if you have an 8 inch floppy drive, there may not be hardware capable running the software required to read it, let alone the application to open the files on the floppy.
+  * Software/format obsolescence. Remember WordStar?
+  * Lost context/metadata. A document's contents may appear mundane, but if it is from the President to the Secretary of State, its context makes it important.
+  * Disaster
+  * Human error
+  * Media fault
+  * Attack
+
+http://www.zdnet.com/blog/storage/100-year-data-preservation/1093
+
+
+===== NYPD Surveillance System =====
+
+{{youtube>GcGpgvTh2W4}}
+
+
+===== Jeremy Bentham, Panopticon =====
+
+{{http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Presidio-modelo2.JPG/800px-Presidio-modelo2.JPG?400}}
+
+The Panopticon is a type of institutional building designed by English philosopher and social theorist Jeremy Bentham in the late 18th century. The concept of the design is to allow a watchman to observe (-opticon) all (pan-) inmates of an institution without them being able to tell whether they are being watched or not. The name is also a reference to Panoptes from Greek mythology; he was a giant with a hundred eyes and thus was known to be a very effective watchman.
+The design consists of a circular structure with an “inspection house” at its centre, from which the managers or staff of the institution are able to watch the inmates, who are stationed around the perimeter. Bentham conceived the basic plan as being equally applicable to hospitals, schools, sanatoriums, daycares, and asylums, but he devoted most of his efforts to developing a design for a Panopticon prison, and it is his prison which is most widely understood by the term.
+Bentham himself described the Panopticon as “a new mode of obtaining power of mind over mind, in a quantity hitherto without example.”[1] Elsewhere, he described the Panopticon prison as “a mill for grinding rogues honest”.[2]
+
+{{http://upload.wikimedia.org/wikipedia/commons/c/cb/CCTV_graffiti_-_geograph.org.uk_-_977154.jpg?400}}
+
+... Building on Foucault, contemporary social critics often assert that technology has allowed for the deployment of panoptic structures invisibly throughout society. Surveillance by CCTV cameras in public spaces is an example of a technology that brings the gaze of a superior into the daily lives of the populace. Furthermore, a number of cities in the United Kingdom, including Middlesbrough, Bristol, Brighton and London have added loudspeakers to a number of their existing CCTV cameras. They can transmit the voice of a camera supervisor to issue audible messages to the public.[42][43] Similarly, critical analyses of internet practice have suggested that the internet allows for a panoptic form of observation.[44] ISPs are able to track users' activities, while user-generated content means that daily social activity may be recorded and broadcast online.[45]
+
+
+http://en.wikipedia.org/wiki/Panopticon

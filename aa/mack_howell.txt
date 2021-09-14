@@ -1,0 +1,50 @@
+\\
+**SUBMARINE COMMUNICATIONS CABLES**\\
+\\
+**Part I**\\
+http://itp.nyu.edu/~rmh398/cool/mack_wormhole.html
+Trips to 6 data centers that my computer visits the most.
+\\
+\\
+\\
+Tapping in:\\
+http://gregorywitt.com/projects/power_line.html\\
+http://www.flickr.com/photos/globalmarinesystems/with/5985653786/\\
+\\
+Quotes:\\
+"Wired people should know about wires" - Neil Stephenson\\
+"a greater threat to the future of the Internet is passing foolish legislation that doesn’t take into account how the Internet actually works – not by terrorists blowing it up." - Andrew Blum\\
+\\
+\\
+Project Targets:\\
+http://motherboard.vice.com/blog/to-visit-the-internet-you-must-leave-the-internet-an-interview-with-andrew-blum\\
+http://en.wikipedia.org/wiki/Meet-me-room\\
+http://telecom.dei.unipd.it/media/download/363/ --- EXPLAIN A SYSTEM \\
+\\
+\\
+Real Objects\\
+http://www.esonetyellowpages.com/hardware-component.php?id=110 ~UNDERWATER ETHERNET CABLE~\\
+http://www.evologics.de/en/products/acoustics/index.html (ACOUSTIC MODEM)\\
+http://www.develogic.de/products/underwater-communication-systems/ ~WOW~\\
+\\
+\\
+Possible Ideas:\\
+- An NYC data treasure hunt = http://www.wired.com/magazine/ff_internetplaces/all/\\
+- An analysis of physical objects of the internet\\
+- Cable Map\\
+\\
+\\
+\\
+~~FINAL~~\\
+\\
+{{http://www.boerner.net/jboerner/wp-content/uploads/2010/01/packet.switching.gif}}
+\\
+\\
+\\
+http://en.wikipedia.org/wiki/Datagram\\
+http://en.wikipedia.org/wiki/Deep_packet_inspection
+\\
+\\
+\\
+{{https://db.tt/lSbxJaMV}}
+-----

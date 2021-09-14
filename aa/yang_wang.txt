@@ -1,0 +1,47 @@
+System: Happiness
+
+**Project A:**
+
+{{vimeo>74352444?medium}}
+
+**Project B:**
+
+
+{{vimeo>76033761?medium}}
+
+
+
+{{vimeo>76572643?medium}}
+
+
+**Research:**
+
+http://www.nytimes.com/2009/12/22/nyregion/22nyc.html?_r=0
+:New York ranks at the last on citizen happiness in USA
+
+http://www.hedonometer.org/index.html
+:Daily happiness averages for twitter, 2008 Sep. to present
+-happy because of weekend or holiday
+-sad because of weekdays or terrorist incidents
+
+
+http://www.wjh.harvard.edu/~dtg/KILLINGSWORTH%20&%20GILBERT%20(2010).pdf
+:A wandering mind is an unhappy mind
+
+
+http://www.guokr.com/article/126/
+:More freedom doesn’t always take more happiness
+
+C.J. Boyce, G. D.A. Brown, S. C. Moore. Money and Happiness: Rank of Income, Not Income, Affects Life Satisfaction. Psychological Science, 2010 ( pdf not found )
+
+:Happiness doesn’t depend on your wealth, it depends on how you spend them, the experience of buying things make people happy. 
+
+**Project C:**
+
+Wooden Book "Book of Happiness"
+
+tool: parametric coding, laser cutting, thread-binding
+
+sketch:
+
+{{:img_20131017_005945.jpg|}}

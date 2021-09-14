@@ -1,0 +1,76 @@
+====== Resolution ======
+
+{{http://www.studio-h.org/wp-content/uploads/2010/10/powersof10.jpg}}
+===== On Exactitude in Science, Borges =====
+
+{{http://pre.cloudfront.goodinc.com/posts/full_1320791639Posset.jpg}}
+
+> In that Empire, the Art of Cartography attained such Perfection that the map of a single Province occupied the entirety of a City, and the map of the Empire, the entirety of a Province. In time, those Unconscionable Maps no longer satisfied, and the Cartographers Guilds struck a Map of the Empire whose size was that of the Empire, and which coincided point for point with it. The following Generations, who were not so fond of the Study of Cartography as their Forebears had been, saw that that vast Map was Useless, and not without some Pitilessness was it, that they delivered it up to the Inclemencies of Sun and Winters. In the Deserts of the West, still today, there are Tattered Ruins of that Map, inhabited by Animals and Beggars; in all the Land there is no other Relic of the Disciplines of Geography.
+Suárez Miranda, Viajes de varones prudentes, LibroIV,Cap. XLV, Lérida,1658
+
+===== Simulation/Simulacra =====
+
+http://en.wikipedia.org/wiki/Simulacra_and_Simulation
+
+Simulacra and Simulation (French: Simulacres et Simulation) is a 1981 philosophical treatise by Jean Baudrillard seeking to interrogate the relationship among reality, symbols, and society.
+Simulacra are copies that depict things that either had no reality to begin with, or that no longer have an original.[1] Simulation is the imitation of the operation of a real-world process or system over time.[2]
+
+...
+
+Simulacra and Simulation is most known for its discussion of symbols, signs, and how they relate to contemporaneity (simultaneous existences). Baudrillard claims that our current society has replaced all reality and meaning with symbols and signs, and that human experience is of a simulation of reality. Moreover, these simulacra are not merely mediations of reality, nor even deceptive mediations of reality; they are not based in a reality nor do they hide a reality, they simply hide that anything like reality is relevant to our current understanding of our lives. The simulacra that Baudrillard refers to are the significations and symbolism of culture and media that construct perceived reality, the acquired understanding by which our lives and shared existence is and are rendered legible; Baudrillard believed that society has become so saturated with these simulacra and our lives so saturated with the constructs of society that all meaning was being rendered meaningless by being infinitely mutable. Baudrillard called this phenomenon the "precession of simulacra".
+
+{{http://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg}}  {{http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schrodingers_cat.svg/1062px-Schrodingers_cat.svg.png?400}}
+
+{{http://www.newyorker.com/images/2013/09/23/cartoons/130923_cartoon_089_a17722_p465.jpg}}
+
+http://www.newyorker.com/humor/issuecartoons/2013/09/23/cartoons_20130916#slide=8
+===== Turing Test, the Chinese Room =====
+http://en.wikipedia.org/wiki/Turing_test
+
+The test was introduced by Alan Turing in his 1950 paper "Computing Machinery and Intelligence," which opens with the words: "I propose to consider the question, 'Can machines think?'" Because "thinking" is difficult to define, Turing chooses to "replace the question by another, which is closely related to it and is expressed in relatively unambiguous words."[3] Turing's new question is: "Are there imaginable digital computers which would do well in the imitation game?"[4] This question, Turing believed, is one that can actually be answered. In the remainder of the paper, he argued against all the major objections to the proposition that "machines can think".[5]
+In the years since 1950, the test has proven to be both highly influential and widely criticized, and it is an essential concept in the philosophy of artificial intelligence.[1][6]
+
+http://en.wikipedia.org/wiki/Turing_test#The_Chinese_room
+
+John Searle's 1980 paper Minds, Brains, and Programs proposed the "Chinese room" thought experiment and argued that the Turing test could not be used to determine if a machine can think. Searle noted that software (such as ELIZA) could pass the Turing Test simply by manipulating symbols of which they had no understanding. Without understanding, they could not be described as "thinking" in the same sense people do. Therefore, Searle concludes, the Turing Test cannot prove that a machine can think.[33] Searle's argument has been widely criticized,[34] but it has been endorsed as well.[35]
+Arguments such as Searle's and others working on the philosophy of mind sparked off a more intense debate about the nature of intelligence, the possibility of intelligent machines and the value of the Turing test that continued through the 1980s and 1990s.[36]
+
+===== Turing Test in Blade Runner =====
+{{youtube>ChJVaTqU2So}}
+
+===== Ghost in the Shell =====
+{{youtube>upwkqW6REpA}}
+~3:36
+
+===== Next 5000 days of the web, Kevin Kelly =====
+{{youtube>yDYCf4ONh5M}}
+~5:53
+
+===== Superorganisms =====
+{{http://unclemilton.com/photos/giant_ant_farm_2.jpg?400}}
+
+A superorganism is an organism consisting of many organisms. This is usually meant to be a social unit of eusocial animals, where division of labour is highly specialised and where individuals are not able to survive by themselves for extended periods of time. Ants are the best-known example of such a superorganism, while the naked mole rat is a famous example of the eusocial mammal. The technical definition of a superorganism is "a collection of agents which can act in concert to produce phenomena governed by the collective,"[1] phenomena being any activity **"the hive wants"** such as ants collecting food or bees choosing a new nest site.
+
+===== Flocking =====
+http://en.wikipedia.org/wiki/Flocking_(behavior)
+{{youtube>yoiyR8o2ca0}}
+
+===== Emergence in Humanity =====
+http://en.wikipedia.org/wiki/Emergence#Emergence_in_humanity
+
+===== What technology wants, Kevin Kelly =====
+http://www.ted.com/talks/kevin_kelly_on_how_technology_evolves.html
+
+http://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/B004Y6MT6O
+
+{{http://www.kk.org/books/wtw.ppb-sm.jpg}}
+
+This provocative book introduces a brand-new view of technology. It suggests that technology as a whole is not a jumble of wires and metal but a living, evolving organism that has its own unconscious needs and tendencies. Kevin Kelly looks out through the eyes of this global technological system to discover "what it wants." He uses vivid examples from the past to trace technology's long course and then follows a dozen trajectories of technology into the near future to project where technology is headed. This new theory of technology offers three practical lessons: By listening to what technology wants we can better prepare ourselves and our children for the inevitable technologies to come. By adopting the principles of pro-action and engagement, we can steer technologies into their best roles. And by aligning ourselves with the long-term imperatives of this near-living system, we can capture its full gifts. Written in intelligent and accessible language, this is a fascinating, innovative, and optimistic look at how humanity and technology join to produce increasing opportunities in the world and how technology can give our lives greater meaning.
+
+===== Singularity =====
+Technological creation of superintelligence
+
+http://en.wikipedia.org/wiki/Technological_singularity
+
+===== Links =====
+[[http://en.wikipedia.org/wiki/Planck_length|Planck Length]]

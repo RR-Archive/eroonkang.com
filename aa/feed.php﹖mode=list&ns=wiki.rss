@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://eroonkang.com/aa/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://eroonkang.com/aa/feed.php">
+        <title>Aesthetics of Automation wiki</title>
+        <description></description>
+        <link>http://eroonkang.com/aa/</link>
+        <image rdf:resource="http://eroonkang.com/aa/lib/tpl/vector/images/favicon.ico" />
+       <dc:date>2021-09-14T20:35:04+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?id=wiki:dokuwiki&amp;rev=1453844621&amp;do=diff"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?id=wiki:navigation&amp;rev=1383792928&amp;do=diff"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?id=wiki:site_notice&amp;rev=1382621651&amp;do=diff"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?id=wiki:syntax&amp;rev=1453844621&amp;do=diff"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?id=wiki:welcome&amp;rev=1378237555&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://eroonkang.com/aa/lib/tpl/vector/images/favicon.ico">
+        <title>Aesthetics of Automation</title>
+        <link>http://eroonkang.com/aa/</link>
+        <url>http://eroonkang.com/aa/lib/tpl/vector/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?id=wiki:dokuwiki&amp;rev=1453844621&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-01-26T21:43:41+00:00</dc:date>
+        <title>wiki:dokuwiki</title>
+        <link>http://eroonkang.com/aa/doku.php?id=wiki:dokuwiki&amp;rev=1453844621&amp;do=diff</link>
+        <description>DokuWiki
+
+wiki:dokuwiki DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database. It is loved by users for its clean and readable syntax. The ease of maintenance, backup and integration makes it an administrator's favorite. Built in</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?id=wiki:navigation&amp;rev=1383792928&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-11-07T02:55:28+00:00</dc:date>
+        <title>wiki:navigation</title>
+        <link>http://eroonkang.com/aa/doku.php?id=wiki:navigation&amp;rev=1383792928&amp;do=diff</link>
+        <description>Syllabus
+
+/
+
+Repetition
+
+Abstraction
+
+Scale
+
+Speed
+
+Resolution
+
+Data/Privacy
+
+Power/Failure
+
+/
+
+Ideas</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?id=wiki:site_notice&amp;rev=1382621651&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-24T13:34:11+00:00</dc:date>
+        <title>wiki:site_notice</title>
+        <link>http://eroonkang.com/aa/doku.php?id=wiki:site_notice&amp;rev=1382621651&amp;do=diff</link>
+        <description>Yeah!</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?id=wiki:syntax&amp;rev=1453844621&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-01-26T21:43:41+00:00</dc:date>
+        <title>wiki:syntax</title>
+        <link>http://eroonkang.com/aa/doku.php?id=wiki:syntax&amp;rev=1453844621&amp;do=diff</link>
+        <description>Formatting Syntax
+
+DokuWiki supports some simple markup language, which tries to make the datafiles to be as readable as possible. This page contains all possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?id=wiki:welcome&amp;rev=1378237555&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-09-03T19:45:55+00:00</dc:date>
+        <title>wiki:welcome</title>
+        <link>http://eroonkang.com/aa/doku.php?id=wiki:welcome&amp;rev=1378237555&amp;do=diff</link>
+        <description>Welcome to your new DokuWiki
+
+Congratulations, your wiki is now up and running. Here are a few more tips to get you started.
+
+Enjoy your work with DokuWiki,
+
+-- the developers
+
+Create your first pages
+
+Your wiki needs to have a start page. As long as it doesn't exist, this link will be red:</description>
+    </item>
+</rdf:RDF>

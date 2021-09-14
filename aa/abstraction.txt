@@ -1,0 +1,61 @@
+====== Abstraction ======
+===== Funes the Memorius, Jorge Luis Borges =====
+**Required Reading**: [[http://www.srs-pr.com/literature/borges-funes.pdf|Full Text PDF]]
+
+{{http://www.captainahabsrarebooks.com/ahab/images/items/151.jpg?200}}
+
+"Funes the Memorious" tells the story of a fictional version of Borges himself as he meets Ireneo Funes, a teenage boy who lives in Fray Bentos, Uruguay, in 1884. Borges's cousin asks the boy for the time, and Funes replies instantly, without the aid of a watch and accurate to the minute.
+
+
+===== 7 ± 2 =====
+http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
+
+===== Memory Palace =====
+[[http://www.ted.com/talks/joshua_foer_feats_of_memory_anyone_can_do.html|Feats of memory anyone can do]], Joshua Foer
+
+{{http://www.voemhealth.com/media/2012/05/GiulioCamillo-600x318.jpg?420}}
+
+[[http://www.wikihow.com/Build-a-Memory-Palace|WikiHow - How to Build a Memory Palace]]
+
+
+===== Arecibo Message =====
+Wikipedia: [[http://en.wikipedia.org/wiki/Arecibo_message|Arecibo message]]
+
+{{http://apod.nasa.gov/apod/image/0001/etmessage_nrao.gif}}
+
+What are these Earthlings trying to tell us? The above message was broadcast from Earth towards the globular star cluster M13 in 1974. During the dedication of the Arecibo Observatory - still the largest radio telescope in the world - a string of 1's and 0's representing the above diagram was sent. This attempt at extraterrestrial communication was mostly ceremonial - humanity regularly broadcasts radio and television signals out into space accidentally. Even were this message received, M13 is so far away we would have to wait almost 50,000 years to hear an answer. The above message gives a few simple facts about humanity and its knowledge: from left to right are numbers from one to ten, atoms including hydrogen and carbon, some interesting molecules, DNA, a human with description, basics of our Solar System, and basics of the sending telescope. Several searches for extraterrestrial intelligence are currently underway, including one where you can use your own home computer.
+
+{{http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/AreciboMessageShifted.svg/512px-AreciboMessageShifted.svg.png}}
+
+===== Benoit Mandelbrot =====
+"Clouds are not spheres, mountains are not cones, coastlines are not circles, and bark is not smooth, nor does lightning travel in a straight line." – [[http://en.wikipedia.org/wiki/Benoit_Mandelbrot|Benoit Mandelbrot]]
+
+{{http://eroonkang.com/content/2.projects/290.Tribute-to-Mandelbrot/mandelbrot-3.jpg?300}}
+===== Bruce Mau from Massive Change =====
+"Every plane crash is a rupture, a shock to the system, precisely because our experience of flight is so carefully designed away from the reality of the event. As we sip champagne, read the morning paper, and settle in before takeoff, we choose not to experience the torque, the thrust, the speed, the altitude, the temperature, the thousands of pounds of explosive jet fuels cradled beneath us, the infinite complexity of onboard systems, and the very real risks and dangers of takeoff and landing."
+
+{{https://dl.dropboxusercontent.com/u/3060214/BMMC.png}}
+{{http://www.airlinereporter.com/wp-content/uploads/2013/07/AsianaCrash-640x364.jpg}}
+
+
+===== The Laws of Simplicity, John Maeda =====
+**About the Book:**[[http://mitpress.mit.edu/books/laws-simplicity|The Laws of Simplicity]], John Maeda
+
+**Amazon:**[[http://www.amazon.com/Laws-Simplicity-Design-Technology-Business/dp/0262134721/ref=sr_1_1?s=books&ie=UTF8&qid=1379468665&sr=1-1&keywords=The+Laws+of+Simplicity]]
+
+
+===== Dan Graham, Poem Schema =====
+{{http://www.medienkunstnetz.de/assets/img/data/3739/full.jpg?420}}{{http://www.medienkunstnetz.de/assets/img/data/3740/full.jpg?420}}
+
+«Poem Schema»
+«Schema for a set of pages whose component variants are to be published in various places. In each published instance, it is set in its final form by the editor of the particular publication where it is to appear, the exact data used to correspond in each specific instance to the specific fact(s) of the published final appearance. The work defines itself in place only as information with simply the external support of the facts of its external appearance or presence in print in place of the object.» (March 1966)\\
+
+(Source: Dan Graham, Art-Language, vol. 1 no 1, May 1969, p. 14, repr. in: Dan Graham, Works 1965–2000, Düsseldorf 2000, p. 95)
+
+
+===== Coastline Paradox =====
+[[http://en.wikipedia.org/wiki/Coastline_paradox|Coastline Paradox]]
+
+The coastline paradox is the counterintuitive observation that the coastline of a landmass does not have a well-defined length. This results from the fractal-like properties of coastlines.[1][2] The first recorded observation of this phenomenon was by Lewis Fry Richardson.
+
+{{http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Britain-fractal-coastline-100km.png/180px-Britain-fractal-coastline-100km.png}}{{http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Britain-fractal-coastline-50km.png/180px-Britain-fractal-coastline-50km.png}}{{http://upload.wikimedia.org/wikipedia/commons/f/fd/Von_Koch_curve.gif}}

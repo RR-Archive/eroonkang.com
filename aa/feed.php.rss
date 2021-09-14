@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://eroonkang.com/aa/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://eroonkang.com/aa/feed.php">
+        <title>Aesthetics of Automation</title>
+        <description></description>
+        <link>http://eroonkang.com/aa/</link>
+        <image rdf:resource="http://eroonkang.com/aa/lib/tpl/vector/images/favicon.ico" />
+       <dc:date>2021-09-14T20:34:25+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?id=syllabus&amp;rev=1453845801&amp;do=diff"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?id=documentation&amp;rev=1386629975&amp;do=diff"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.43.27.png&amp;ns=&amp;rev=1386629071&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.43.00.png&amp;ns=&amp;rev=1386628991&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.42.12.png&amp;ns=&amp;rev=1386628946&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.38.03.png&amp;ns=&amp;rev=1386628745&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=bookletcreator-nov_13.pdf&amp;ns=&amp;rev=1384298097&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=pdf_booklet_-nov_5_booklet-_revised.pdf&amp;ns=&amp;rev=1384298066&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=subordinates2.png&amp;ns=&amp;rev=1383805316&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=subordinates.png&amp;ns=&amp;rev=1383805166&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=howtomakework.png&amp;ns=&amp;rev=1383804509&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=smile_eroon2.png&amp;ns=&amp;rev=1383195759&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=smile_eroon.jpg&amp;ns=&amp;rev=1383195601&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=hannahmishinbooktemplatewhitesheetshort.pdf&amp;ns=&amp;rev=1383190641&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=hannahmishinbooktemplatevellumsheets.pdf&amp;ns=&amp;rev=1383189688&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=msn75login.jpg&amp;ns=&amp;rev=1383180519&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=madonna-color_copy.png&amp;ns=&amp;rev=1383179432&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=3.jpg&amp;ns=&amp;rev=1383166708&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=2.jpg&amp;ns=&amp;rev=1383166675&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://eroonkang.com/aa/doku.php?image=1.jpg&amp;ns=&amp;rev=1383166653&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://eroonkang.com/aa/lib/tpl/vector/images/favicon.ico">
+        <title>Aesthetics of Automation</title>
+        <link>http://eroonkang.com/aa/</link>
+        <url>http://eroonkang.com/aa/lib/tpl/vector/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?id=syllabus&amp;rev=1453845801&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-01-26T22:03:21+00:00</dc:date>
+        <dc:creator>eroon26</dc:creator>
+        <title>syllabus</title>
+        <link>http://eroonkang.com/aa/doku.php?id=syllabus&amp;rev=1453845801&amp;do=diff</link>
+        <description>Aesthetics of Automation
+
+ITPG-GT.2503
+
+09/03/2013 - 12/13/2013
+
+Thu 9.30 AM - 12.00 PM
+
+E Roon Kang
+
+eroon.kang@nyu.edu
+
+
+From Movable Type to the Internet, our desire to automate the work has been a major driving force behind many technological advancement. Thanks to these technologies, we are living the world that is extremely efficient and scalable, but as a result, we became alienated from the process of making. Often, we find the process humanly impossible to comprehend, due to our lack of…</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?id=documentation&amp;rev=1386629975&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-12-09T22:59:35+00:00</dc:date>
+        <title>documentation - [FINAL UPDATE] </title>
+        <link>http://eroonkang.com/aa/doku.php?id=documentation&amp;rev=1386629975&amp;do=diff</link>
+        <description>Documentation Format
+
+FINAL UPDATE
+
+It turns out, custom binding w/ signature in NYC is too expensive. 
+So, let's just print single pages in letter size paper. (loose sheets, double sided).
+
+	*  Your document size is still 5 in x 7.75 in (same template,</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.43.27.png&amp;ns=&amp;rev=1386629071&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-12-09T22:44:31+00:00</dc:date>
+        <title>screenshot_2013-12-09_17.43.27.png - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.43.27.png&amp;ns=&amp;rev=1386629071&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=477&amp;t=1386629071&amp;amp;tok=b0a401&amp;amp;media=screenshot_2013-12-09_17.43.27.png&quot; alt=&quot;screenshot_2013-12-09_17.43.27.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.43.00.png&amp;ns=&amp;rev=1386628991&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-12-09T22:43:11+00:00</dc:date>
+        <title>screenshot_2013-12-09_17.43.00.png - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.43.00.png&amp;ns=&amp;rev=1386628991&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=477&amp;t=1386628991&amp;amp;tok=3e573a&amp;amp;media=screenshot_2013-12-09_17.43.00.png&quot; alt=&quot;screenshot_2013-12-09_17.43.00.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.42.12.png&amp;ns=&amp;rev=1386628946&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-12-09T22:42:26+00:00</dc:date>
+        <title>screenshot_2013-12-09_17.42.12.png - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.42.12.png&amp;ns=&amp;rev=1386628946&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=477&amp;t=1386628946&amp;amp;tok=3d22dc&amp;amp;media=screenshot_2013-12-09_17.42.12.png&quot; alt=&quot;screenshot_2013-12-09_17.42.12.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.38.03.png&amp;ns=&amp;rev=1386628745&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-12-09T22:39:05+00:00</dc:date>
+        <title>screenshot_2013-12-09_17.38.03.png - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=screenshot_2013-12-09_17.38.03.png&amp;ns=&amp;rev=1386628745&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=328&amp;t=1386628745&amp;amp;tok=a109ba&amp;amp;media=screenshot_2013-12-09_17.38.03.png&quot; alt=&quot;screenshot_2013-12-09_17.38.03.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=bookletcreator-nov_13.pdf&amp;ns=&amp;rev=1384298097&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-11-12T23:14:57+00:00</dc:date>
+        <title>bookletcreator-nov_13.pdf - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=bookletcreator-nov_13.pdf&amp;ns=&amp;rev=1384298097&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=pdf_booklet_-nov_5_booklet-_revised.pdf&amp;ns=&amp;rev=1384298066&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-11-12T23:14:26+00:00</dc:date>
+        <title>pdf_booklet_-nov_5_booklet-_revised.pdf - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=pdf_booklet_-nov_5_booklet-_revised.pdf&amp;ns=&amp;rev=1384298066&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=subordinates2.png&amp;ns=&amp;rev=1383805316&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-11-07T06:21:56+00:00</dc:date>
+        <dc:creator>eroon26</dc:creator>
+        <title>subordinates2.png - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=subordinates2.png&amp;ns=&amp;rev=1383805316&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=350&amp;t=1383805316&amp;amp;tok=b4dae7&amp;amp;media=subordinates2.png&quot; alt=&quot;subordinates2.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=subordinates.png&amp;ns=&amp;rev=1383805166&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-11-07T06:19:26+00:00</dc:date>
+        <dc:creator>eroon26</dc:creator>
+        <title>subordinates.png - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=subordinates.png&amp;ns=&amp;rev=1383805166&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=346&amp;t=1383805166&amp;amp;tok=c0f671&amp;amp;media=subordinates.png&quot; alt=&quot;subordinates.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=howtomakework.png&amp;ns=&amp;rev=1383804509&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-11-07T06:08:29+00:00</dc:date>
+        <dc:creator>eroon26</dc:creator>
+        <title>howtomakework.png - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=howtomakework.png&amp;ns=&amp;rev=1383804509&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=349&amp;t=1383804509&amp;amp;tok=829e47&amp;amp;media=howtomakework.png&quot; alt=&quot;howtomakework.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=smile_eroon2.png&amp;ns=&amp;rev=1383195759&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-31T05:02:39+00:00</dc:date>
+        <title>smile_eroon2.png - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=smile_eroon2.png&amp;ns=&amp;rev=1383195759&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=290&amp;t=1383195759&amp;amp;tok=57d2f4&amp;amp;media=smile_eroon2.png&quot; alt=&quot;smile_eroon2.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=smile_eroon.jpg&amp;ns=&amp;rev=1383195601&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-31T05:00:01+00:00</dc:date>
+        <title>smile_eroon.jpg - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=smile_eroon.jpg&amp;ns=&amp;rev=1383195601&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=375&amp;t=1383195601&amp;amp;tok=c7e4b2&amp;amp;media=smile_eroon.jpg&quot; alt=&quot;smile_eroon.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=hannahmishinbooktemplatewhitesheetshort.pdf&amp;ns=&amp;rev=1383190641&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-31T03:37:21+00:00</dc:date>
+        <title>hannahmishinbooktemplatewhitesheetshort.pdf</title>
+        <link>http://eroonkang.com/aa/doku.php?image=hannahmishinbooktemplatewhitesheetshort.pdf&amp;ns=&amp;rev=1383190641&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=hannahmishinbooktemplatevellumsheets.pdf&amp;ns=&amp;rev=1383189688&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-31T03:21:28+00:00</dc:date>
+        <title>hannahmishinbooktemplatevellumsheets.pdf - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=hannahmishinbooktemplatevellumsheets.pdf&amp;ns=&amp;rev=1383189688&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=msn75login.jpg&amp;ns=&amp;rev=1383180519&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-31T00:48:39+00:00</dc:date>
+        <dc:creator>eroon26</dc:creator>
+        <title>msn75login.jpg - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=msn75login.jpg&amp;ns=&amp;rev=1383180519&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=243&amp;h=391&amp;t=1383180519&amp;amp;tok=64fd70&amp;amp;media=msn75login.jpg&quot; alt=&quot;msn75login.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=madonna-color_copy.png&amp;ns=&amp;rev=1383179432&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-31T00:30:32+00:00</dc:date>
+        <dc:creator>eroon26</dc:creator>
+        <title>madonna-color_copy.png - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=madonna-color_copy.png&amp;ns=&amp;rev=1383179432&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=375&amp;t=1383179432&amp;amp;tok=e0096a&amp;amp;media=madonna-color_copy.png&quot; alt=&quot;madonna-color_copy.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=3.jpg&amp;ns=&amp;rev=1383166708&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-30T20:58:28+00:00</dc:date>
+        <title>3.jpg - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=3.jpg&amp;ns=&amp;rev=1383166708&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=220&amp;t=1383166708&amp;amp;tok=98ac12&amp;amp;media=3.jpg&quot; alt=&quot;3.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=2.jpg&amp;ns=&amp;rev=1383166675&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-30T20:57:55+00:00</dc:date>
+        <title>2.jpg - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=2.jpg&amp;ns=&amp;rev=1383166675&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=500&amp;h=500&amp;t=1383166675&amp;amp;tok=3837c6&amp;amp;media=2.jpg&quot; alt=&quot;2.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://eroonkang.com/aa/doku.php?image=1.jpg&amp;ns=&amp;rev=1383166653&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-30T20:57:33+00:00</dc:date>
+        <title>1.jpg - created</title>
+        <link>http://eroonkang.com/aa/doku.php?image=1.jpg&amp;ns=&amp;rev=1383166653&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://eroonkang.com/aa/lib/exe/fetch.php?w=337&amp;h=500&amp;t=1383166653&amp;amp;tok=73fb29&amp;amp;media=1.jpg&quot; alt=&quot;1.jpg&quot; /&gt;</description>
+    </item>
+</rdf:RDF>

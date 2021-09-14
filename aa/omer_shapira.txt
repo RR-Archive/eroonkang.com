@@ -1,0 +1,50 @@
+====== Oh Hai ======
+
+{{ :dreamtiger.jpg?nolink&1024 |}}
+
+===== Week 3 Homework =====
+
+== Pixel Sort & Unsort ==
+
+{{:hw03_70efc2be5fee11e2854522000a1f9e45_7_thres128.png?nolink&512|}}
+{{:hw03_70efc2be5fee11e2854522000a1f9e45_7_thres52.png?nolink&512 |}}
+
+{{ ::hw03_pruittigoe_thres150.png?nolink&1024 |}}
+{{ ::hw03_pruittigoe_thres128.png?nolink&1024 |}}
+
+== Fourier Image Coding ==
+
+{{:2ptymfn.jpg?nolink&512|}}
+{{:m0ped.jpg?nolink&512|}}
+
+=== Python Code for Fourier Coding ===
+<code>
+from matplotlib import pyplot
+import numpy
+import os.path
+from __future__ import division
+output_path = "/Users/Omer/Dropbox/NYU/Aesthetics of Automation/HW 03/"
+
+# Save Function
+save = lambda name, x : misc.imsave(os.path.join(output_path, name), x)
+
+img = misc.imread("/Users/Omer/Desktop/Unfortunately.png")
+pyplot.imshow(img)
+fg = ndimage.fourier.fourier_gaussian(img,0.5)
+pyplot.imshow(fg)
+save("fg.png", fg)
+
+for n in xrange(10):
+    f = 0.05 + n*0.05
+    fg = ndimage.fourier.fourier_gaussian(img,f)
+    save("fg"+str(f)+".png", fg)
+gf = ndimage.fourier.fourier_gaussian(fg,0.5)
+pyplot.imshow(gf)
+</code>
+
+== Human Entropy Collection ==
+Not developed yet
+
+=== Feedback ===
+[[http://www.spynumbers.com/WBNY.html | Rodent Revolution Numbers Staiton]]
+[[http://stewd.io/w/histoface | Histoface Typeface]]
